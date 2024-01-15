@@ -8,6 +8,7 @@ Enthusiastic Data Analyst with Accomplishments: - Finished MSc Big Data Analytic
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [joelbastin100@gmail.com](mailto:joelbastin100@gmail.com)
+* I have experience in Machine Learning, NLP, Power BI, Tableau.
 * 🧠  I'm learning AI (OpenAI)
 
 ### Skills
